@@ -2,7 +2,7 @@
 
 Hi, I’m Allison Xinyuan Zhang!
 
-I started out as an entrepreneur:after graduation I co-founded Tatto, a location-based social app.
+I started out as an entrepreneur: after graduation I co-founded Tatto, a location-based social app.
 
 I’m deeply committed to the open-source community. I co-founded EvalSys, a living, open-source community to track and advance model agentic capabilities. We’re building benchmarks, datasets, toolchains, and models to help push the field forward.
 
