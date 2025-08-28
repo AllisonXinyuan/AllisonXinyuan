@@ -4,7 +4,7 @@ Hi, I’m Allison Xinyuan Zhang!
 
 I began my career as an entrepreneur — right after graduation, I co-founded Tatto, a location-based social app.
 
-I’m deeply committed to the open-source community. I co-founded EvalSys, a living, open-source initiative dedicated to tracking and advancing model agentic capabilities. We’re building benchmarks, datasets, toolchains, and models to help push the field forward.
+I’m deeply committed to the open-source community. I co-founded EvalSys, a living, open-source community dedicated to tracking and advancing model agentic capabilities. We’re building benchmarks, datasets, toolchains, and models to help push the field forward.
 
 Currently, I’m a seed investor focused on early-stage AI, with particular interest in AI applications, agentic infra, and robotics. I aim to be the first partner to startup teams—not just an investor, but someone who builds and codes alongside them.
 
