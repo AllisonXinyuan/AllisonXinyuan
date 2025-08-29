@@ -1,6 +1,6 @@
-# AllisonXinyuan.github.io
+# Hi there 👋
 
-Hi, I’m Allison Xinyuan Zhang!
+Hi, I’m Allison Xinyuan Zhan!
 
 I began my career as an entrepreneur — right after graduation, I co-founded Tatto, a location-based social app.
 
