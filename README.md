@@ -2,35 +2,13 @@
 
 Hi, I'm Allison (Xinyuan) Zhang 👋
 
-Seed Investor | Based in Palo Alto & Beijing
+Right after university, I co-founded Tatto, a location-based social app in London. Now I’m a seed investor focused on early-stage AI — especially AI applications, agent infra, and robotics.
 
-Background
+I’m committed to the open-source community and co-founded EvalSys, where we shipped MCP Mark and are currently exploring multi-agent systems.
 
-Co-founded Tatto, a location-based social app in London right after graduation
+On the side, I run my own quant strategies and have been trading digital assets since 2014.
 
-Now a seed investor in early-stage AI — particularly AI applications, agentic infra, and robotics
+Outside of work, I enjoy rock climbing, anime, and playing the Guqin (a traditional Chinese instrument).
 
-
-Open Source
-
-Co-founded EvalSys
-
-Shipped MCP Mark and currently exploring multi-agent systems
-
-
-Trading
-
-Amateur quant trader running own strategies
-
-Trading digital assets since 2014
-
-
-Outside Work
-
-🧗 Rock climbing | 🎌 Anime | 🎵 Guqin (traditional Chinese instrument)
-
-
-Let’s connect
-
-I’m always up for chatting with AI builders, traders, and open-source contributors
+I split my time between Palo Alto and Beijing, and I’m always happy to meet new friends — whether you’re building in AI, into trading, or curious about EvalSys.
 📧 xinyuanyy@gmail.com
