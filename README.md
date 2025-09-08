@@ -14,10 +14,13 @@ Open Source
 
 Co-founded EvalSys
 
-Shipped MCP Mark and currently exploring multi-agent systems 
+Shipped MCP Mark and currently exploring multi-agent systems
+
 
 Trading
+
 Amateur quant trader running my own strategies
+
 Trading digital assets since 2014
 
 
