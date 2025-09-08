@@ -8,7 +8,7 @@ I’m committed to the open-source community and co-founded EvalSys. We’ve shi
 
 On the side, I run my own quant strategies and have been trading digital assets since 2014.
 
-Outside of work, I enjoy rock climbing, anime, and playing the Guqin (a traditional Chinese instrument).
+Outside of work, I enjoy rock climbing, anime, and playing the Guqin.
 
 I split my time between Palo Alto and Beijing, and I’m always happy to meet new friends — whether you’re building in AI, into trading, or curious about EvalSys.
 📧 xinyuanyy@gmail.com
