@@ -20,7 +20,7 @@ Shipped MCP Mark and currently exploring multi-agent systems
 
 Trading
 
-Amateur quant trader running my own strategies
+Amateur quant trader running own strategies
 
 Trading digital assets since 2014
 
